@@ -1,4 +1,4 @@
-import npProjectImage from '../assets/no-project.png';
+import npProjectImage from '../assets/no-projects.png';
 import Button from './Button';
 
 export default function NoProjectSelected() {
